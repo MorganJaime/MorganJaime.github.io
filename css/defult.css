@@ -48,3 +48,17 @@ span {
     padding:10px;
     background-color: azure;
 }
+
+p{
+    margin:5px;
+    padding:10px;
+}
+
+.fixSpan{
+    padding:0px !important;
+}
+
+img{
+    width:100%;
+    height:auto;
+}
