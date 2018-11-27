@@ -1,0 +1,51 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    min-height:100vh;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+
+
+.myGrow {
+    transition: transform .2s;
+    margin-right:10px;
+}
+
+    .myGrow:hover {
+        transform: scale(1.15);
+    }
+
+
+
+a:hover {
+    color:rgb(80,80,80);
+    text-decoration:none;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+
+}
+
+ul{
+    padding:0px;
+}
+
+body > .myNav {
+    padding-left:40px;
+    padding-top:40px;
+    height:100%;
+}
+
+span {
+    margin:15px;
+    padding:10px;
+    background-color: azure;
+}

@@ -1,7 +1,19 @@
-body {
+.myNav {
     background-image: url("../imgs/TreePorn.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    min-height:100vh;
+    min-width:100%;
 }
+
+.container {
+    min-height:50vh;
+    background-image: url("../imgs/leaves.png");
+    background-repeat:repeat;
+}
+
+
+
+
